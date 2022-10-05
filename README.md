@@ -1,8 +1,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/SandboxBlizz.svg?style=flat-square&label=Follow&logo=twitter)](https://twitter.com/SandboxBlizz)
 
-# Farseer Physics Engine + TestBed Port to MonoGame 3.6!
+# Farseer Physics Engine + TestBed Port to MonoGame 3.8!
 
-This is a port of the **Farseer Physics Engine** (including the **DebugView** as well as the **TestBed**). With this repo you will get the original TestBed of the Farseer Physics Engine (Box2D) which is working with new newest MonoGame interation 3.6!
+This is a port of the **Farseer Physics Engine** (including the **DebugView** as well as the **TestBed**). With this repo you will get the original TestBed of the Farseer Physics Engine (Box2D) which is working with new newest MonoGame interation 3.8!
 
 ![Farseer Physics Engine: TestBed](Documentation/FPETB.gif)
 
@@ -10,7 +10,7 @@ This is a port of the **Farseer Physics Engine** (including the **DebugView** as
 
 The following is required to successfully compile the solution:
 
-- MonoGame 3.6 (DesktopGL)
+- MonoGame 3.8 (DesktopGL)
 - Farseer Physics Engine (Source included)
 - Farseer Physics Engine DebugView (Source included)
 - Visual Studio 2015
@@ -33,7 +33,7 @@ I think it's a very great way to learn how the Farseer Physics Engine (which is 
 
 ## Samples
 
-Testbed: [MonoGame.DesktopGL/Tests](https://github.com/sqrMin1/Farseer-Physics-TestBed-Port-MonoGame-3.6/tree/master/Testbed%20MonoGame.DesktopGL/Tests)
+Testbed: [MonoGame.DesktopGL/Tests](https://github.com/sqrMin1/Farseer-Physics-TestBed-Port-MonoGame-3.8/tree/master/Testbed%20MonoGame.DesktopGL/Tests)
 
 Click on the link to get an overview of all the samples, which are included in this repo!
 
